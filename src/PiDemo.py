@@ -35,7 +35,6 @@ def blink_led(delay):
 
 def rotate_servo():
     servo.init()
-
     for i in range(0, 180, 5):
         servo.set_servo_position(i)
         sleep(0.05)
