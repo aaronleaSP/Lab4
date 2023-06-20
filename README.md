@@ -2,4 +2,4 @@
 
 This repository contains demo code for the Raspberry Pi Evaluation board
 
-![alt text](./COAR Assignment-D.png)
+![alt text](COAR Assignment-D.png)
